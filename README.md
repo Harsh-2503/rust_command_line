@@ -6,3 +6,7 @@ WORKING COMMANDS
 cd
 ls
 pwd
+
+
+
+... more to come
